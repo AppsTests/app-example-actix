@@ -1,3 +1,7 @@
+![Actix Logo](https://st.timeweb.com/cloud-static/apps-logo/actix.svg)
+
+# Actix
+
 Пример приложения Actix, которое можно развернуть в Timeweb Cloud Apps без настройки.
 
 🎉 [Демо](https://timeweb-cloud-apps-app-example-actix-3b00.twc1.net/)
